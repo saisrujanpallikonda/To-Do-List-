@@ -25,6 +25,7 @@ List the key features of your To-Do List App. This could include things like add
 1.Open the project directory:
 cd to-do-list-app
 
+
 2.Open `index.html` in your web browser to run the app.
 **Usage:**
 Provide usage instructions and any additional information users might need.
